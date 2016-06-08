@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:singleLine="true"
+        android:lines="1"
+        android:minHeight="30dp"
+        android:layout_gravity="center"
+        android:textColor="@color/black"
+        android:paddingRight="10dp"
+        android:paddingLeft="10dp"
+        android:background="@drawable/radio_normal"
+        android:gravity="center"
+        android:text="中国"
+        android:id="@+id/tv_item_top_view_dialog_vp_address_select"
+        android:layout_width="100dp"
+        android:layout_height="30dp" />
+</LinearLayout>
